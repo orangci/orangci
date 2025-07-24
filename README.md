@@ -11,4 +11,4 @@ Most of my GitHub repositories are mirrored from my Gitea instance at [git.orang
     <img src="https://github-readme-stats.vercel.app/api?username=orangci&show_icons=true&hide_border=true&count_private=true&show=reviews,prs_merged_percentage&hide=prs,issues&border_radius=24&text_color=cdd6f4&title_color=fab387&icon_color=fab387&bg_color=1e1e2e&include_all_commits=true&rank_icon=percentile&hide_title=true" alt="orangc's GitHub Statistics">
 </div>
 
-<img src="https://count.getloli.com/@orangc-github-profile?name=orangc-github-profile&theme=booru-touhoulat&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="orangc's github profile visitor counter" />
+<img src="https://count.getloli.com/@orangc-github-profile?name=orangc-github-profile&theme=booru-jaypee&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="orangc's github profile visitor counter" />
