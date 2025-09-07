@@ -4,7 +4,7 @@ Maintainer @ [is-a.dev](https://is-a.dev).
 
 Python developer and high school student. I'm currently learning [Rust](https://rust-lang.org).
 
-Most of my GitHub repositories are mirrored from my Gitea instance at [git.orangc.net](https://git.orangc.net).
+Most of my GitHub repositories are mirrored from my Forgejo instance at [git.orangc.net](https://git.orangc.net).
 
 <div style="display: flex; justify-content: space-between;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=orangci&layout=compact&custom_title=GitHub+Statistics&title_color=fab387&text_color=cdd6f4&bg_color=1e1e2e&border_radius=24&hide_border=true&hide=typescript" alt="orangc's Top Languages">
