@@ -1,7 +1,7 @@
 > [!IMPORTANT]
 > My GitHub profile is _**not**_ the place to look for my projects, barring two or three of them. My code is primarily hosted at Forgejo instance at [git.orangc.net](https://git.orangc.net), and much of it is also _mirrored_ to [Codeberg](https://codeberg.org/orangc).
 >
-> ...I don't like GitHub very much.
+> ...I [don't](https://www.reuters.com/world/middle-east/microsoft-disables-services-israel-defense-unit-after-review-2025-09-25/) [like](https://apnews.com/article/israel-palestinians-ai-technology-737bc17af7b03e98c29cec4e15d0f108) [GitHub](https://github.blog/changelog/2026-03-25-updates-to-our-privacy-statement-and-terms-of-service-how-we-use-your-data/) [very](https://techcrunch.com/2025/02/26/thousands-of-exposed-github-repositories-now-private-can-still-be-accessed-through-copilot/) [much](https://techcrunch.com/2026/05/20/github-says-hackers-stole-data-from-thousands-of-internal-repositories/).
 
 For contact information or general information about me, visit https://orangc.net.
 
